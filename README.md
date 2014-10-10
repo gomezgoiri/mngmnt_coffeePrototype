@@ -1,4 +1,4 @@
-mngmnt_coffeePrototype
-======================
+coffeePrototype: Management GUI
+===============================
 
-Web administration for the coffee prototype data
+Flask-based web administration of the data of a coffee-related prototype which never took off.
